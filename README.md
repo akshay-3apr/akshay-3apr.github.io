@@ -1,8 +1,7 @@
 # Akshay Prakash
-
-Glasgow, GLG G4 9PJ
-+447448526624
-akshay3prakash@gmail.com
+###### Address: #### Glasgow, G4 9PJ
+##### Phone Number: #### +447448526624
+##### Email ID: #### akshay3prakash@gmail.com
 
 LinkedIn
 
