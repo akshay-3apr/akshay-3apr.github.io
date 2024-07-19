@@ -8,10 +8,11 @@
 <a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-Hey there 👋,
+ ---
+# Summary
 
-I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
- 
+ Experienced Data Scientist adept in statistical analysis, machine learning techniques, data cleaning, preprocessing, and transformation of datasets. Skilled in data visualization and proficient in deploying machine learning models on cloud platforms. Strong communicator with the ability to convey technical concepts to non-technical audiences. Committed to continuous learning and staying abreast of the latest advancements in data science.
+
  ---
 
 <p>
