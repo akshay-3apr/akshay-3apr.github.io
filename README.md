@@ -1,5 +1,5 @@
-# [![Akshay Prakash header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
-# Akshay Prakash
+
+# <p align="center">Akshay Prakash</p>
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
