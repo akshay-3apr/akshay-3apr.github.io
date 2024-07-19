@@ -5,13 +5,9 @@
 
 <a href="https://www.linkedin.com/in/prakashakshay"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn: </a> **https://www.linkedin.com/in/prakashakshay**
 
-GitHub
+<a href="https://www.linkedin.com/in/prakashakshay"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> GitHub: </a> **https://www.github.com/akshay-3apr**
 
-https://www.github.com/akshay-3apr
-
-Medium
-
-https://www.medium.com/@prakashakshay
+<a href="https://www.linkedin.com/in/prakashakshay"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> Medium: </a> **https://www.medium.com/@prakashakshay**
 
  ---
 # Summary
