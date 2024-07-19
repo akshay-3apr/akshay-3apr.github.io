@@ -1,13 +1,9 @@
 # [![Akshay Prakash header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
 # Akshay Prakash
 
-<a href="#"></a>
 
- <a href="#"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw0rFvy6Ln5MJrpyx2aWciZx&ust=1721479123446000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj7uc-Ps4cDFQAAAAAdAAAAABAE"> LinkedIn
 
- 
-
-https://www.linkedin.com/in/prakashakshay</a>
+<a href="#"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw0rFvy6Ln5MJrpyx2aWciZx&ust=1721479123446000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj7uc-Ps4cDFQAAAAAdAAAAABAE"> LinkedIn: https://www.linkedin.com/in/prakashakshay</a>
 
 GitHub
 
