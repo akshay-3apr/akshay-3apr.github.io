@@ -5,10 +5,13 @@
 <a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-LinkedIn
+<a href="#"></a>
 
-https://www.linkedin.com/in/prakashakshay
+ <a href="#"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw0rFvy6Ln5MJrpyx2aWciZx&ust=1721479123446000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj7uc-Ps4cDFQAAAAAdAAAAABAE"> LinkedIn
+
+ 
+
+https://www.linkedin.com/in/prakashakshay</a>
 
 GitHub
 
