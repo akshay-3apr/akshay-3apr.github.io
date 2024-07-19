@@ -5,7 +5,7 @@
 
 <a href="https://www.linkedin.com/in/prakashakshay"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn: </a> **https://www.linkedin.com/in/prakashakshay**
 
-<a href="https://www.github.com/akshay-3apr"><img height="30" src="[https://miro.medium.com/v2/resize:fit:8978/1*s986xIGqhfsN8U--09_AdA.png](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)"> GitHub: </a> **https://www.github.com/akshay-3apr**
+<a href="https://www.github.com/akshay-3apr"><img height="30" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"> GitHub: </a> **https://www.github.com/akshay-3apr**
 
 <a href="[https://www.linkedin.com/in/prakashakshay](https://www.medium.com/@prakashakshay)"><img height="30" src="https://miro.medium.com/v2/resize:fit:8978/1*s986xIGqhfsN8U--09_AdA.png"> Medium: </a> **https://www.medium.com/@prakashakshay**
 
