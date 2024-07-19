@@ -1,4 +1,4 @@
-# <p align="center"> Akshay Prakash</p>
+# Akshay Prakash
 
 ----
 
