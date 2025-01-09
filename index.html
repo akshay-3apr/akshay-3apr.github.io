@@ -3,55 +3,78 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Akshay Prakash - Portfolio</title>
+    <title>Akshay Prakash - Python Developer</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Roboto', sans-serif;
             margin: 0;
             padding: 0;
-            line-height: 1.6;
+            background-color: #f4f4f9;
             color: #333;
-            background-color: #f9f9f9;
         }
         header {
-            background: #333;
-            color: #fff;
-            padding: 1rem 0;
+            background-color: #007acc;
+            color: white;
+            padding: 20px 10%;
             text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            margin: 5px 0;
+            font-size: 1.2em;
         }
         nav {
             text-align: center;
-            margin: 1rem 0;
+            margin: 20px 0;
         }
         nav a {
-            color: #333;
-            text-decoration: none;
             margin: 0 15px;
+            text-decoration: none;
+            color: #007acc;
+            font-weight: 700;
         }
         nav a:hover {
             text-decoration: underline;
         }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background: #fff;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        section {
+            padding: 20px 10%;
+            margin-bottom: 20px;
         }
-        h1, h2 {
-            color: #333;
+        h2 {
+            color: #007acc;
+            border-bottom: 2px solid #007acc;
+            display: inline-block;
+            margin-bottom: 15px;
+        }
+        .skills ul, .experience ul, .projects ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .skills ul li, .experience ul li, .projects ul li {
+            margin-bottom: 10px;
         }
         footer {
+            background-color: #333;
+            color: white;
             text-align: center;
-            margin: 2rem 0;
-            color: #777;
+            padding: 10px;
+            position: relative;
+        }
+        footer a {
+            color: #007acc;
+            text-decoration: none;
         }
     </style>
 </head>
 <body>
     <header>
         <h1>Akshay Prakash</h1>
-        <p>Python Developer | Data Scientist | Software Engineer</p>
+        <p>Python Developer | Data Science Enthusiast</p>
+        <p>Glasgow, United Kingdom | prakashakshay91@gmail.com</p>
     </header>
 
     <nav>
@@ -62,72 +85,66 @@
         <a href="#contact">Contact</a>
     </nav>
 
-    <div class="container">
-        <section id="about">
-            <h2>About Me</h2>
-            <p>Results-oriented Software Engineer with over 7 years of experience in designing, developing, and troubleshooting secure, scalable, and high-performance applications. Proficient in Python, SQL, and AWS, with expertise in building ETL/ELT pipelines, automating workflows, and implementing cloud-based solutions.</p>
-        </section>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Results-oriented Software Engineer with over 7 years of experience in designing, developing, and troubleshooting secure, scalable, and high-performance applications. Proficient in Python, SQL, and AWS, with expertise in building ETL/ELT pipelines, automating workflows, and implementing cloud-based solutions. Passionate about applying cybersecurity best practices and emerging technologies to solve complex problems.</p>
+    </section>
 
-        <section id="skills">
-            <h2>Skills</h2>
-            <ul>
-                <li>Programming Languages: Python, SQL, Shell Script, C Language</li>
-                <li>Data Processing: ETL/ELT Pipelines, Data Modeling, Data Transformation</li>
-                <li>Big Data Technologies: Hadoop, Spark, Hive, AWS</li>
-                <li>Cloud Platforms: AWS, Google Cloud Platform, Microsoft Azure</li>
-                <li>DevOps & Automation: CI/CD, Git, Bitbucket, Terraform</li>
-                <li>Database Management: Oracle, MySQL, MSSQL</li>
-                <li>Data Visualization: Tableau, Power BI, Matplotlib</li>
-            </ul>
-        </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Programming Languages: Python, SQL, Shell Script, C</li>
+            <li>Big Data Technologies: Hadoop, Spark, Hive</li>
+            <li>Cloud Platforms: AWS, GCP, Microsoft Azure</li>
+            <li>DevOps: CI/CD, Terraform, Git</li>
+            <li>Database Management: Oracle, MySQL, MSSQL</li>
+            <li>Visualization Tools: Tableau, Power BI, Matplotlib</li>
+        </ul>
+    </section>
 
-        <section id="experience">
-            <h2>Experience</h2>
-            <h3>Python Developer</h3>
-            <p><strong>Barclays, Glasgow, United Kingdom (Jan 2023 - Present)</strong></p>
-            <ul>
-                <li>Designed and maintained secure software solutions using Python and SQL.</li>
-                <li>Built ETL/ELT pipelines and data models for enhanced data analysis.</li>
-                <li>Collaborated with teams to troubleshoot and deploy scalable cloud solutions on AWS.</li>
-            </ul>
+    <section id="experience">
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>Python Developer</strong> - Barclays (2023 - Present)
+                <ul>
+                    <li>Developed and maintained secure, scalable software solutions using Python and SQL.</li>
+                    <li>Architected ETL/ELT pipelines and optimized data models for a data warehouse.</li>
+                    <li>Collaborated with cross-functional teams to deliver cloud-based solutions on AWS.</li>
+                </ul>
+            </li>
+            <li><strong>Data Scientist</strong> - Reliance Jio (2020 - 2021)
+                <ul>
+                    <li>Built machine learning models and optimized data processing workflows.</li>
+                    <li>Automated workflows using Python, reducing processing time by 40%.</li>
+                </ul>
+            </li>
+            <li><strong>Senior Software Engineer</strong> - MetricStream (2016 - 2020)
+                <ul>
+                    <li>Designed modular architectures for data pipelines, reducing development time by 60%.</li>
+                    <li>Automated testing and monitoring processes, enhancing system reliability.</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
 
-            <h3>Data Scientist</h3>
-            <p><strong>Reliance Jio, Bengaluru, India (Nov 2020 - Sep 2021)</strong></p>
-            <ul>
-                <li>Developed machine learning models and automated data workflows.</li>
-                <li>Improved operational efficiency by 40% through process optimization.</li>
-            </ul>
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Security Event Analysis Pipeline</strong> - Designed a real-time pipeline for analyzing security events using Python and AWS services.</li>
+            <li><strong>Fraud Detection Model</strong> - Developed a fraud detection system with a 20% increase in detection accuracy.</li>
+            <li><strong>Cloud Resource Monitoring System</strong> - Built a monitoring system to optimize AWS resource utilization.</li>
+        </ul>
+    </section>
 
-            <h3>Senior Software Engineer</h3>
-            <p><strong>MetricStream, Bengaluru, India (Jul 2016 - Nov 2020)</strong></p>
-            <ul>
-                <li>Architected modular data pipelines, reducing development time by 60%.</li>
-                <li>Enhanced system reliability through automated testing and monitoring.</li>
-            </ul>
-        </section>
-
-        <section id="projects">
-            <h2>Projects</h2>
-            <h3>Security Event Analysis Pipeline</h3>
-            <p>Designed and developed an ETL pipeline for real-time ingestion and analysis of security event data, leveraging AWS services to enhance threat detection efficiency.</p>
-
-            <h3>Fraud Detection Model</h3>
-            <p>Built and deployed a fraud detection system using anomaly detection techniques, improving fraud identification accuracy by 20%.</p>
-
-            <h3>Cloud Resource Monitoring System</h3>
-            <p>Architected a cloud resource monitoring system using AWS services to optimize resource utilization and reduce manual monitoring efforts by 50%.</p>
-        </section>
-
-        <section id="contact">
-            <h2>Contact</h2>
-            <p>Email: <a href="mailto:prakashakshay91@gmail.com">prakashakshay91@gmail.com</a></p>
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/prakashakshay" target="_blank">linkedin.com/in/prakashakshay</a></p>
-            <p>GitHub: <a href="https://www.github.com/akshay-3apr" target="_blank">github.com/akshay-3apr</a></p>
-        </section>
-    </div>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:prakashakshay91@gmail.com">prakashakshay91@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/prakashakshay" target="_blank">linkedin.com/in/prakashakshay</a></p>
+        <p>GitHub: <a href="https://www.github.com/akshay-3apr" target="_blank">github.com/akshay-3apr</a></p>
+    </section>
 
     <footer>
-        <p>&copy; 2025 Akshay Prakash. All rights reserved.</p>
+        <p>&copy; 2025 Akshay Prakash | Built with HTML and CSS</p>
     </footer>
 </body>
 </html>
