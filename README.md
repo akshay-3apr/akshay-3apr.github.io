@@ -54,7 +54,7 @@ Provides my email, LinkedIn, and GitHub for easy communication.
    ```
 2. Open the `index.html` file in a browser to view the website locally.
 3. Alternatively, visit the live site hosted on GitHub Pages:
-   [https://akshay-3apr.github.io](https://akshayprakash.github.io)
+   [https://akshay-3apr.github.io](https://akshay-3apr.github.io)
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
