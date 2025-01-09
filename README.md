@@ -1,98 +1,63 @@
-# Akshay Prakash
+# Akshay Prakash - Portfolio Website
 
-----
+Welcome to the repository for my personal portfolio website! This site showcases my skills, experience, and projects as a Python Developer, Data Scientist, and Software Engineer.
 
-| <!-- -->    | <!-- -->    |
-|-------------|-------------|
-| <a href="https://www.linkedin.com/in/prakashakshay"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn: </a>       | **https://www.linkedin.com/in/prakashakshay** |
-| <a href="https://www.github.com/akshay-3apr"><img height="30" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"> GitHub: </a>   | **https://www.github.com/akshay-3apr**     |
-| <a href="[https://www.linkedin.com/in/prakashakshay](https://www.medium.com/@prakashakshay)"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdLdcyX1uiwNtXoeO37363WcZxTpriVzolpw&s"> Medium Blogs: </a> | **https://www.medium.com/@prakashakshay** |
+## Website Overview
+The portfolio is designed to:
+- Provide an overview of my professional background.
+- Highlight my key skills, work experience, and notable projects.
+- Offer easy access to my contact information and social profiles.
 
- ---
-# Summary
+## Features
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Clean Layout**: Organized sections for About, Skills, Experience, Projects, and Contact.
+- **Integration**: Includes links to my GitHub and LinkedIn profiles.
 
- Experienced Data Scientist adept in statistical analysis, machine learning techniques, data cleaning, preprocessing, and transformation of datasets. Skilled in data visualization and proficient in deploying machine learning models on cloud platforms. Strong communicator with the ability to convey technical concepts to non-technical audiences. Committed to continuous learning and staying abreast of the latest advancements in data science.
+## Technologies Used
+- **HTML5**: Structuring the website content.
+- **CSS3**: Styling and layout design.
+- **GitHub Pages**: Hosting the website.
 
- ---
+## File Structure
+```
+.
+|-- index.html   # Main website file
+|-- README.md    # Documentation for the repository
+```
 
-### My Digital Garden 🌱
+## Sections
+### About
+Provides a summary of my career and professional goals.
 
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+### Skills
+Highlights my technical proficiencies, including programming languages, cloud platforms, and data visualization tools.
 
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+### Experience
+Lists my professional roles, including responsibilities and achievements at:
+- Barclays (Python Developer)
+- Reliance Jio (Data Scientist)
+- MetricStream (Senior Software Engineer)
 
-[Latest Post 👉](https://waylonwalker.com/latest)
+### Projects
+Details key projects I have worked on, such as:
+- **Security Event Analysis Pipeline**: Enhanced real-time security threat detection.
+- **Fraud Detection Model**: Improved fraud identification accuracy by 20%.
+- **Cloud Resource Monitoring System**: Optimized resource utilization on AWS.
 
-<details>
- <summary><strong>other favorite posts</strong></summary>
- <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
- 
-</details>
-💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
+### Contact
+Provides my email, LinkedIn, and GitHub for easy communication.
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _237_
+## How to View the Website
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/akshay-3apr/portfolio.git
+   ```
+2. Open the `index.html` file in a browser to view the website locally.
+3. Alternatively, visit the live site hosted on GitHub Pages:
+   [https://akshay-3apr.github.io](https://akshayprakash.github.io)
 
-<a href='https://twitter.com/csfinch'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1256139099813171200/BVCrHTv8_normal.jpg' />
-</a>
+## License
+This project is open-source and available under the [MIT License](LICENSE).
 
-<a href='https://twitter.com/csfinch'>
-    csfinch
-</a>
-
-Serial Entrepreneur who loves building #startups
-Love working in  #nodejs #JavaScript on new products for a better future
-Connect with me on LI https://t.co/UMhAREyKO8
-
-<h2></h2><a href='https://twitter.com/NoahKahenga'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1279369050615951360/sD8W-fC5_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/NoahKahenga'>
-    Jean-Luc Noah | Devs
-</a>
-
-Développeur web et désigner. Mon Instagram  : https://t.co/OG059zXD91 🌎Cliquez ici pour accéder à à ma chaîne 👇
-
-<h2></h2><a href='https://twitter.com/brianmmdev'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1250997828379344899/GO6L94Yr_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/brianmmdev'>
-    Brian Morrison II 👨‍💻 #BlackLivesMatter
-</a>
-
-Software Engineer & Live Coder • YouTube: https://t.co/Z6ugmIkzRL • Discord: https://t.co/KlBCDY1rem • FB Gaming: https://t.co/sOJTKVIsxN
-
-<h2></h2><a href='https://twitter.com/Delta2315'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1166656388291907584/P-N8_Hbq_normal.png' />
-</a>
-
-<a href='https://twitter.com/Delta2315'>
-    Swastik Baranwal
-</a>
-
-A noob
-C | Modern C++ | Python | Go | V @v_language Contributor. 
-
-https://t.co/joOO2b4z88: https://t.co/9Yit97TiV2
-GitHub: https://t.co/GrVxzpgPZh
-Deviant Art: https://t.co/ZlF9PsNZR5
-
-<h2></h2><a href='https://twitter.com/SleekWebsiteLLC'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1253441454405562369/WNGORBXd_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/SleekWebsiteLLC'>
-    Daniel @ Sleek Websites
-</a>
-
-Hi, I'm Daniel - a freelance web developer. I am the owner of Sleek Websites. I tweet about computer programming, business, and productivity.
-
-<h2></h2>
-
-<p align='center'>
-<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
- <p/>
+---
+Feel free to reach out via [email](mailto:prakashakshay91@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/prakashakshay)!
