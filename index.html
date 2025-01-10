@@ -41,6 +41,7 @@
             margin-bottom: 2rem;
             padding: 1.5rem;
             position: relative;
+            transition: 0.3s;
         }
         .card h2 {
             margin-top: 0;
@@ -57,6 +58,9 @@
             position: absolute;
             top: 20px;
             right: 20px;
+        }
+        .card:hover {
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
         }
         footer {
             background-color: #333;
@@ -224,10 +228,14 @@
             <div class="slider-container">
                 <div class="slider">
                     <div class="blog-card">
-                        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*G5AKirKuqviW8nNCPVlVjw.jpeg" alt="Blog 1">
-                        <h3>Generative AI: the next big thing set to revolutionise the banking sector?</h3>
-                        <p>The article explores how generative AI is poised to revolutionize the banking sector. It delves into the technology's transformative potential, from streamlining operations to enhancing customer experiences. As financial institutions grapple with this shift, the article raises the question: will generative AI truly reshape banking as we know it, or will it encounter unforeseen challenges along the way? To discover the answers, you’ll want to continue reading.</p>
-                        <a href="https://img.freepik.com/free-vector/hand-drawn-ai-investing-illustration_23-2151180675.jpg?t=st=1736466722~exp=1736470322~hmac=14a9cb083bf972362f11e42c308e78785c17f42e22e336ce7e4bda9f73a3db2f&w=1380" target="_blank">Read More</a>
+                        <div class="card">
+                            <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*G5AKirKuqviW8nNCPVlVjw.jpeg" alt="Blog 1">
+                        </div>
+                        <div class="card">
+                            <h3>Generative AI: the next big thing set to revolutionise the banking sector?</h3>
+                            <p>The article explores how generative AI is poised to revolutionize the banking sector. It delves into the technology's transformative potential, from streamlining operations to enhancing customer experiences. As financial institutions grapple with this shift, the article raises the question: will generative AI truly reshape banking as we know it, or will it encounter unforeseen challenges along the way? To discover the answers, you’ll want to continue reading.</p>
+                            <a href="https://img.freepik.com/free-vector/hand-drawn-ai-investing-illustration_23-2151180675.jpg?t=st=1736466722~exp=1736470322~hmac=14a9cb083bf972362f11e42c308e78785c17f42e22e336ce7e4bda9f73a3db2f&w=1380" target="_blank">Read More</a>
+                        </div>
                     </div>
                     <div class="blog-card">
                         <img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*wlIBWHR5Jp4QYhy0kIjhBw.jpeg" alt="Blog 2">
